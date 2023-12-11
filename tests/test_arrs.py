@@ -1,7 +1,7 @@
 import unittest
 from utils import arrs
 
-
+# Добавляем проверку на покрытие тестов.
 
 class TestArrs(unittest.TestCase):
 
